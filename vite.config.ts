@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/she-history/',
-  build: { outDir: 'docs' },
+  build: { outDir: 'dist' },
 })
