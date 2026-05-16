@@ -1,0 +1,14 @@
+.title {
+  text-align: center;
+  padding: var(--space-xl) var(--space-md) 0;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.subtitle {
+  text-align: center;
+  padding: var(--space-xs) var(--space-md) var(--space-sm);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}

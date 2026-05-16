@@ -1,0 +1,26 @@
+.marker {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-lg) 0 var(--space-md);
+  position: relative;
+  z-index: 1;
+}
+
+.year {
+  background: var(--color-primary);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: var(--space-xs) var(--space-md);
+  border-radius: 1rem;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 640px) {
+  .marker {
+    justify-content: flex-start;
+    padding-left: 0;
+  }
+}

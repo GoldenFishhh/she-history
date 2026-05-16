@@ -1,0 +1,48 @@
+.wrapper {
+  display: flex;
+  position: relative;
+  padding: var(--space-sm) var(--space-lg);
+}
+
+.left {
+  justify-content: flex-end;
+}
+
+.right {
+  justify-content: flex-start;
+}
+
+.wrapper::before {
+  content: "";
+  position: absolute;
+  top: 2rem;
+  width: 10px;
+  height: 10px;
+  background: var(--color-primary);
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.left::before {
+  right: -5px;
+}
+
+.right::before {
+  left: -5px;
+}
+
+.inner {
+  width: 85%;
+}
+
+@media (max-width: 640px) {
+  .wrapper {
+    justify-content: flex-start !important;
+    padding: var(--space-sm) 0 var(--space-sm) var(--space-lg);
+    grid-column: 1 !important;
+  }
+  .wrapper::before {
+    left: -1.25rem !important;
+    right: auto !important;
+  }
+}

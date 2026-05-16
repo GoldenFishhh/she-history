@@ -1,0 +1,846 @@
+[
+  {
+    "id": "int-1791-olympe-de-gouges",
+    "titleZh": "奥兰普·德古热发表《女权和女公民权宣言》",
+    "titleEn": "Olympe de Gouges Publishes Declaration of the Rights of Woman and of the Female Citizen",
+    "date": { "year": 1791, "month": 9, "day": 14 },
+    "dateDisplay": "1791年9月14日",
+    "category": "international",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "法国剧作家奥兰普·德古热发表《女权和女公民权宣言》，主张女性应享有与男性同等的公民权利和政治权利，是女权主义思想史上的奠基性文献。",
+    "content": "1789年法国大革命爆发后，制宪会议颁布了《人权和公民权宣言》，宣告'人生而自由平等'。然而宣言中的'homme'一词在当时被解释为仅指男性，女性被排除在公民权利之外。\n\n1791年，奥兰普·德古热发表了《女权和女公民权宣言》，以《人权宣言》为蓝本，逐条改写，将权利主体扩展至女性。她在宣言中写道：'女性生而自由，且在权利上与男性平等。'\n\n德古热还在宣言中主张女性应享有言论自由、财产权和参与公共事务的权利。1793年，她因反对罗伯斯庇尔的恐怖统治而被送上断头台。她的思想在其身后沉寂多年，直到20世纪才被重新发掘和重视。",
+    "sources": [
+      { "title": "De Gouges, O. (1791). Déclaration des droits de la femme et de la citoyenne.", "type": "document" }
+    ]
+  },
+  {
+    "id": "int-1848-seneca-falls",
+    "titleZh": "美国塞尼卡福尔斯会议通过《权利和情感宣言》",
+    "titleEn": "Seneca Falls Convention Adopts Declaration of Sentiments",
+    "date": { "year": 1848, "month": 7, "day": 20 },
+    "dateDisplay": "1848年7月20日",
+    "category": "international",
+    "tags": [
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" },
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "美国第一次妇女权利大会在纽约州塞尼卡福尔斯召开，通过了以《独立宣言》为蓝本的《权利和情感宣言》，标志着美国有组织的女权运动的开端。",
+    "content": "1848年7月19日至20日，约300人（包括40名男性）聚集在纽约州塞尼卡福尔斯的卫斯理教堂，召开了美国历史上第一次以妇女权利为主题的公开大会。会议由伊丽莎白·卡迪·斯坦顿和柳克丽霞·莫特等人组织。\n\n大会通过了《权利和情感宣言》，该文件仿照《独立宣言》的文体，将'人人生而平等'的原则明确应用于女性。宣言列举了女性在法律、经济和社会领域遭受的种种不公，并特别提出了女性选举权的要求——这在当时被认为是激进的主张。\n\n这次大会被视为美国女权运动的起点，此后全美各地的女性开始有组织地为争取自身权利而斗争。",
+    "sources": [
+      { "title": "Stanton, E. C. et al. (1848). Declaration of Sentiments.", "type": "document" }
+    ]
+  },
+  {
+    "id": "int-1893-nz-suffrage",
+    "titleZh": "新西兰成为世界上第一个赋予女性选举权的国家",
+    "titleEn": "New Zealand Becomes First Country to Grant Women's Suffrage",
+    "date": { "year": 1893, "month": 9, "day": 19 },
+    "dateDisplay": "1893年9月19日",
+    "category": "international",
+    "tags": [
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" },
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "新西兰通过《选举法修正案》，成为世界上第一个在全国范围内赋予女性选举权的自治国家，为全球女性参政开辟了先河。",
+    "content": "新西兰女性争取选举权的运动始于19世纪80年代，由凯特·谢泼德领导的'新西兰妇女基督教禁酒联盟'（WCTU）是主要推动力量。经过多年的请愿和游说，她们在1893年向议会提交了一份有近32,000名女性签名的请愿书——这在当时新西兰女性人口中占比极高。\n\n1893年9月19日，新西兰总督签署了《选举法修正案》，正式赋予所有成年女性在全国选举中的投票权。同年11月的选举中，超过65%的新西兰女性参与了投票。\n\n新西兰的突破激励了全球范围内的女性参政运动，证明了女性选举权的可行性。",
+    "sources": [
+      { "title": "Grimshaw, P. (1972). Women's Suffrage in New Zealand.", "type": "book" }
+    ]
+  },
+  {
+    "id": "int-1903-curie-nobel",
+    "titleZh": "玛丽·居里成为首位获得诺贝尔奖的女性",
+    "titleEn": "Marie Curie Becomes First Woman to Win a Nobel Prize",
+    "date": { "year": 1903, "month": 12, "day": 10 },
+    "dateDisplay": "1903年12月10日",
+    "category": "international",
+    "tags": [
+      { "id": "science", "labelZh": "科学", "labelEn": "Science" },
+      { "id": "leadership", "labelZh": "先驱人物", "labelEn": "Leadership" }
+    ],
+    "summary": "玛丽·居里与丈夫皮埃尔·居里及贝克勒尔共同获得诺贝尔物理学奖，成为历史上第一位获得诺贝尔奖的女性。1911年她又独获诺贝尔化学奖，至今仍是唯一在两门不同科学领域获诺贝尔奖的人。",
+    "content": "玛丽·斯克沃多夫斯卡·居里（1867-1934），生于波兰华沙，后赴法国求学。她是放射性研究的先驱，发现了钋和镭两种元素，并创造了'放射性'（radioactivity）这一术语。\n\n1903年，居里夫妇与亨利·贝克勒尔共同获得诺贝尔物理学奖，但最初诺贝尔委员会只打算奖励皮埃尔·居里和贝克勒尔，在皮埃尔的抗议下才将玛丽纳入。这反映了当时科学界对女性的系统性排斥。\n\n1911年，居里独自获得诺贝尔化学奖，表彰她发现镭和钋并分离出纯镭的成果。她成为历史上第一位、也是迄今为止极少数两次获诺贝尔奖的人之一。\n\n一战期间，居里开发了移动X射线车（'小居里'），在战场上救治了约百万伤员。1906年她成为索邦大学第一位女教授。尽管成就卓著，法国科学院仍于1910年拒绝接纳她为院士。1995年，她的遗骨被迁入先贤祠，成为首位凭自身成就入葬该处的女性。",
+    "sources": [
+      { "title": "Goldsmith, B. (2005). Obsessive Genius: The Inner World of Marie Curie.", "type": "book" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marie_Curie_c._1898.jpg/640px-Marie_Curie_c._1898.jpg"
+    ]
+  },
+  {
+    "id": "cn-1907-qiu-jin",
+    "titleZh": "秋瑾就义",
+    "titleEn": "Execution of Qiu Jin",
+    "date": { "year": 1907, "month": 7, "day": 15 },
+    "dateDisplay": "1907年7月15日",
+    "category": "domestic",
+    "tags": [
+      { "id": "leadership", "labelZh": "先驱人物", "labelEn": "Leadership" },
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" }
+    ],
+    "summary": "近代中国女性革命先驱秋瑾在绍兴英勇就义。她倡导男女平等、妇女解放，是中国近代史上最具影响力的女性革命家之一。",
+    "content": "秋瑾（1875-1907），字璿卿，号竞雄，别署鉴湖女侠，浙江绍兴人。她是中国近代史上杰出的女性革命家和诗人。\n\n1904年，秋瑾不顾家庭反对赴日留学，在日本加入光复会和同盟会，积极从事革命活动。回国后，她创办《中国女报》，宣传男女平等和妇女解放思想，主张女性应当接受教育、参与社会事务和革命运动。\n\n1907年，秋瑾与徐锡麟策划浙皖起义，事泄被捕。在审讯中她坚贞不屈，仅写下'秋风秋雨愁煞人'七字。7月15日，秋瑾在绍兴轩亭口英勇就义，年仅32岁。\n\n秋瑾的牺牲震撼了全国，她的精神和思想激励了无数后来者，成为中国妇女解放运动的一面旗帜。",
+    "sources": [
+      { "title": "秋瑾集（1960）. 中华书局.", "type": "book" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%E7%A7%8B%E7%91%BE%E5%A5%B3%E5%A3%AB%E9%81%BA%E5%83%8F.png/480px-%E7%A7%8B%E7%91%BE%E5%A5%B3%E5%A3%AB%E9%81%BA%E5%83%8F.png"
+    ]
+  },
+  {
+    "id": "int-1909-womens-day",
+    "titleZh": "首个国际妇女节设立",
+    "titleEn": "First International Women's Day Established",
+    "date": { "year": 1909, "month": 2, "day": 28 },
+    "dateDisplay": "1909年2月28日",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "labor", "labelZh": "劳动权益", "labelEn": "Labor" }
+    ],
+    "summary": "美国社会主义党在纽约设立首个全国妇女节，纪念1908年纽约服装女工罢工。之后在克拉拉·蔡特金的倡导下发展为国际妇女节。",
+    "content": "1909年2月28日，美国社会主义党为纪念1908年纽约服装女工的大规模罢工，宣布设立全国妇女节（National Woman's Day），这是历史上第一个以女性为主题的纪念日。\n\n1910年，在丹麦哥本哈根召开的第二届国际社会主义妇女代表大会上，德国社会主义者克拉拉·蔡特金提出设立'国际妇女节'的倡议，得到了来自17个国家的100多名女性代表的一致赞同。\n\n1911年3月19日，首个国际妇女节在奥地利、丹麦、德国和瑞士举行，超过100万人参加了集会和游行，要求女性选举权、工作权和结束歧视。\n\n此后国际妇女节的日期几经变动，最终固定在3月8日，成为全球性的女性权益纪念日。",
+    "sources": [
+      { "title": "Kaplan, T. (1985). On the Socialist Origins of International Women's Day.", "type": "article" }
+    ]
+  },
+  {
+    "id": "cn-1912-suffrage-alliance",
+    "titleZh": "女子参政同盟会在南京成立",
+    "titleEn": "Women's Suffrage Alliance Established in Nanjing",
+    "date": { "year": 1912, "month": 4, "day": 8 },
+    "dateDisplay": "1912年4月8日",
+    "category": "domestic",
+    "tags": [
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" },
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "唐群英等人在南京成立女子参政同盟会，是中国近代史上第一个以争取女性参政权为宗旨的全国性妇女组织。",
+    "content": "1912年中华民国成立后，以唐群英为首的女性活动家积极争取将男女平等写入《临时约法》。在屡遭拒绝后，唐群英等人决定组建全国性的妇女组织。\n\n1912年4月8日，女子参政同盟会在南京正式成立，唐群英任会长。同盟会的宗旨明确为'实行男女平等，实行参政'。这是中国历史上第一个以争取女性政治权利为核心的全国性组织。\n\n同盟会成员多次向参议院请愿，要求赋予女性选举权和被选举权。虽然当时未能实现，但她们的行动极大地推动了社会对女性参政问题的关注和讨论。",
+    "sources": [
+      { "title": "中华全国妇女联合会（1989）. 中国妇女运动史.", "type": "book" }
+    ]
+  },
+  {
+    "id": "int-1918-uk-suffrage",
+    "titleZh": "英国30岁以上女性获得选举权",
+    "titleEn": "British Women Over 30 Granted the Right to Vote",
+    "date": { "year": 1918, "month": 2, "day": 6 },
+    "dateDisplay": "1918年2月6日",
+    "category": "international",
+    "tags": [
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" },
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "英国议会通过《1918年人民代表法》，赋予30岁以上且符合财产资格的女性选举权，是英国女性历经数十年斗争取得的重大胜利。",
+    "content": "英国女性争取选举权的运动（Suffragette Movement）是近代史上最为激烈的社会运动之一。以埃米琳·潘克赫斯特为首的'妇女社会政治同盟'（WSPU）自1903年起发起了大规模抗议活动，包括游行、绝食、破坏公物等激进手段，许多成员被逮捕入狱。\n\n第一次世界大战期间（1914-1918），大量女性进入工厂、医院和行政部门工作，承担了原本由男性担任的职责，展现了女性的社会贡献能力。\n\n1918年2月6日，英国议会通过了《1918年人民代表法》，赋予30岁以上且本人或丈夫符合一定财产资格的女性选举权。虽然这一法律仍带有年龄和财产限制（男性选民年龄门槛仅为21岁且无财产限制），约840万女性首次获得了投票权。1928年，英国女性最终获得了与男性完全平等的选举权。",
+    "sources": [
+      { "title": "Pankhurst, S. (1931). The Suffragette Movement.", "type": "book" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/Suffragettes%2C_England%2C_1908.JPG"
+    ]
+  },
+  {
+    "id": "cn-1919-may-fourth",
+    "titleZh": "五四运动中的女性觉醒",
+    "titleEn": "Women's Awakening in the May Fourth Movement",
+    "date": { "year": 1919, "month": 5, "day": 4 },
+    "dateDisplay": "1919年5月4日",
+    "category": "domestic",
+    "tags": [
+      { "id": "education", "labelZh": "教育", "labelEn": "Education" },
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" }
+    ],
+    "summary": "五四运动中，大量女学生冲破校门走上街头参与爱国运动，大学开放女禁的呼声高涨，推动了中国女性教育和社会参与的重大变革。",
+    "content": "1919年五四运动爆发，北京多所女子学校的学生冲破校方封锁，组织游行、发表演讲、抵制日货，第一次以集体行动的方式登上中国政治舞台。\n\n运动的浪潮推动了社会观念的深刻变革。知识分子群体发起关于'妇女解放'的大讨论，议题涵盖教育平等、婚姻自主、经济独立等多个方面。\n\n1920年，北京大学和南京高等师范学校率先招收女生，打破了中国大学'男女授受不亲'的传统壁垒。到1922年，全国共有665名女生进入大学学习。教育权的获得为女性争取其他社会权利奠定了根本性基础。",
+    "sources": [
+      { "title": "周策纵（1960）. 五四运动史.", "type": "book" }
+    ]
+  },
+  {
+    "id": "cn-1949-women-congress",
+    "titleZh": "中国妇女第一次全国代表大会召开",
+    "titleEn": "First National Women's Congress of China",
+    "date": { "year": 1949, "month": 3, "day": 24 },
+    "dateDisplay": "1949年3月",
+    "category": "domestic",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "中国妇女第一次全国代表大会在北平召开，成立中华全国民主妇女联合会，确立了'保护妇女权益，实现男女平等、妇女解放'为妇联宗旨。",
+    "content": "1949年3月24日至4月3日，中国妇女第一次全国代表大会在北平中南海怀仁堂召开，来自解放区和国统区的500余名代表出席。\n\n大会通过了《中华全国民主妇女联合会章程》，选举蔡畅为全国妇联主席，确立了妇联作为'党联系妇女群众的桥梁'的定位。\n\n这是中国历史上第一个全国性的妇女组织，标志着中国妇女运动从分散走向统一。此后全国妇联在推动婚姻法、妇女权益保障法等重大立法中发挥了关键作用。",
+    "sources": [
+      { "title": "中华全国妇女联合会. 中国妇女第一次全国代表大会.", "type": "document" }
+    ]
+  },
+  {
+    "id": "int-1949-beauvoir",
+    "titleZh": "西蒙娜·德·波伏娃出版《第二性》",
+    "titleEn": "Simone de Beauvoir Publishes The Second Sex",
+    "date": { "year": 1949, "month": 1, "day": 1 },
+    "dateDisplay": "1949年",
+    "category": "international",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" }
+    ],
+    "summary": "法国哲学家波伏娃出版《第二性》，从哲学、历史、生物学等多维度分析女性的处境，提出'女人不是天生的，而是后天形成的'这一经典论断。",
+    "content": "1949年，西蒙娜·德·波伏娃出版了《第二性》（Le Deuxième Sexe），全书分两卷——第一卷《事实与神话》和第二卷《生活经历》。\n\n波伏娃在书中开宗明义地提出了那个著名论断：'女人不是天生的，而是后天形成的'（On ne naît pas femme : on le devient）。她从存在主义哲学出发，系统分析了女性如何在历史、文化和社会制度中被建构为'他者'（the Other），即相对于男性主体的次要存在。\n\n《第二性》的出版在当时引起巨大争议，梵蒂冈将其列入禁书目录。然而，这部著作深刻影响了20世纪下半叶的女权主义理论和运动，被视为第二波女权主义的理论基石，至今仍是女性研究的必读经典。",
+    "sources": [
+      { "title": "Beauvoir, S. de (1949). Le Deuxième Sexe. Gallimard.", "type": "book" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Simone_de_Beauvoir_1967_%28cropped%29.jpg/640px-Simone_de_Beauvoir_1967_%28cropped%29.jpg"
+    ]
+  },
+  {
+    "id": "cn-1950-marriage-law",
+    "titleZh": "新中国颁布第一部《婚姻法》",
+    "titleEn": "New China's First Marriage Law Promulgated",
+    "date": { "year": 1950, "month": 5, "day": 1 },
+    "dateDisplay": "1950年5月1日",
+    "category": "domestic",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "marriage", "labelZh": "婚姻家庭", "labelEn": "Marriage" }
+    ],
+    "summary": "新中国第一部基本法《中华人民共和国婚姻法》正式施行，确立了婚姻自由、一夫一妻、男女权利平等的婚姻制度，从根本上改变了中国女性的家庭地位。",
+    "content": "1950年5月1日，《中华人民共和国婚姻法》正式施行。这是新中国成立后颁布的第一部基本法律，也是中国历史上第一部在全国范围内确立男女婚姻平等的法律。\n\n《婚姻法》明确规定：'废除包办强迫、男尊女卑、漠视子女利益的封建主义婚姻制度。实行男女婚姻自由、一夫一妻、男女权利平等、保护妇女和子女合法权益的新民主主义婚姻制度。'\n\n法律禁止重婚、纳妾、童养媳，赋予女性提出离婚的权利。据统计，1950年至1953年间，全国法院受理的离婚案件超过300万件，其中绝大多数由女性提出。这部法律的实施深刻改变了中国女性的家庭地位和社会角色，是新中国妇女解放运动的里程碑。",
+    "sources": [
+      { "title": "中华人民共和国婚姻法（1950年）", "type": "document", "url": "https://www.npc.gov.cn" }
+    ]
+  },
+  {
+    "id": "cn-1954-constitution-equality",
+    "titleZh": "五四宪法确立男女平等原则",
+    "titleEn": "1954 Constitution Establishes Gender Equality as a Constitutional Principle",
+    "date": { "year": 1954, "month": 9, "day": 20 },
+    "dateDisplay": "1954年9月20日",
+    "category": "domestic",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "新中国第一部《宪法》颁布，明确规定'妇女在政治的、经济的、文化的、社会和家庭的生活各方面享有同男子平等的权利'。",
+    "content": "1954年9月20日，第一届全国人民代表大会第一次会议通过了《中华人民共和国宪法》，这是新中国的第一部根本大法。\n\n宪法第九十六条规定：'中华人民共和国妇女在政治的、经济的、文化的、社会的和家庭的生活各方面享有同男子平等的权利。婚姻、家庭、母亲和儿童受国家的保护。'\n\n这一条款将男女平等从党的政策上升为国家根本法层面，为中国此后各项妇女权益立法和政策的出台提供了最高的法律依据。此后历次宪法修订都继承并强化了这一原则。",
+    "sources": [
+      { "title": "中华人民共和国宪法（1954年）", "type": "document", "url": "https://www.npc.gov.cn" }
+    ]
+  },
+  {
+    "id": "int-1960-bandaranaike",
+    "titleZh": "西丽玛沃·班达拉奈克成为世界首位女总理",
+    "titleEn": "Sirimavo Bandaranaike Becomes World's First Female Prime Minister",
+    "date": { "year": 1960, "month": 7, "day": 21 },
+    "dateDisplay": "1960年7月21日",
+    "category": "international",
+    "tags": [
+      { "id": "leadership", "labelZh": "先驱人物", "labelEn": "Leadership" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "西丽玛沃·班达拉奈克当选锡兰（今斯里兰卡）总理，成为世界历史上第一位女性政府首脑，开启了女性进入国家最高领导层的新纪元。",
+    "content": "1960年7月21日，西丽玛沃·班达拉奈克在丈夫（前总理所罗门·班达拉奈克）遇刺后，领导斯里兰卡自由党赢得大选，成为锡兰（今斯里兰卡）总理，也是现代世界史上第一位民选女性政府首脑。\n\n她先后三次出任总理（1960-1965、1970-1977、1994-2000），执政期间推行国有化政策，在国际舞台上是不结盟运动的重要领导人之一。\n\n班达拉奈克的当选在当时极具象征意义——在许多国家的女性甚至还没有选举权的年代，一位女性已经站上了一国的最高政治舞台。她的成功挑战了'女性不适合政治领导'的成见，为后来的英迪拉·甘地、玛格丽特·撒切尔等女性领导人铺平了道路。",
+    "sources": [
+      { "title": "Seneviratne, M. (2017). Sirimavo Bandaranaike: The World's First Woman Prime Minister.", "type": "book" }
+    ]
+  },
+  {
+    "id": "int-1963-equal-pay-act",
+    "titleZh": "美国通过《同工同酬法》",
+    "titleEn": "US Equal Pay Act Signed into Law",
+    "date": { "year": 1963, "month": 6, "day": 10 },
+    "dateDisplay": "1963年6月10日",
+    "category": "international",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "labor", "labelZh": "劳动权益", "labelEn": "Labor" }
+    ],
+    "summary": "美国总统肯尼迪签署《同工同酬法》，禁止基于性别的工资歧视，是美国联邦法律首次明确保障女性在职场中的经济平等权利。",
+    "content": "1963年6月10日，美国总统约翰·F·肯尼迪签署了《同工同酬法》（Equal Pay Act of 1963），作为《公平劳动标准法》的修正案。\n\n该法规定，在同一工作场所从事需要同等技能、努力和责任的工作，且在相似工作条件下完成的男性和女性雇员，雇主不得因性别支付不同的工资。\n\n这是美国第二波女权运动的重要立法成果之一，也是联邦法律首次直接干预基于性别的职场经济不平等。虽然该法在执行层面仍面临诸多挑战——直到今天美国女性的平均收入仍约为男性的82%——它标志着'同工同酬'从社会诉求转化为法律原则的关键一步。",
+    "sources": [
+      { "title": "Equal Pay Act of 1963, Pub. L. 88-38.", "type": "document" }
+    ]
+  },
+  {
+    "id": "int-1975-un-women-year",
+    "titleZh": "联合国宣布国际妇女年并召开首次世界妇女大会",
+    "titleEn": "UN Declares International Women's Year and Holds First World Conference on Women",
+    "date": { "year": 1975, "month": 6, "day": 19 },
+    "dateDisplay": "1975年",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "联合国将1975年定为'国际妇女年'，在墨西哥城召开首次世界妇女大会，全球女性议题首次被纳入国际政治的核心议程。",
+    "content": "1975年，联合国宣布该年为'国际妇女年'（International Women's Year），并于6月19日至7月2日在墨西哥城召开了第一次世界妇女大会。\n\n来自133个国家的约2000名代表（其中73%为女性）出席了会议。大会通过了《墨西哥宣言》和《世界行动计划》，提出了'平等、发展与和平'三大主题，并宣布1976-1985年为'联合国妇女十年'。\n\n这次大会标志着国际社会第一次将妇女问题作为全球性议题进行系统讨论，为此后CEDA公约的制定、北京世妇会的召开等重大进展奠定了基础。",
+    "sources": [
+      { "title": "United Nations. (1975). Report of the World Conference of the International Women's Year.", "type": "document" }
+    ]
+  },
+  {
+    "id": "int-1979-cedaw",
+    "titleZh": "联合国通过《消除对妇女一切形式歧视公约》",
+    "titleEn": "UN Adopts CEDAW Convention",
+    "date": { "year": 1979, "month": 12, "day": 18 },
+    "dateDisplay": "1979年12月18日",
+    "category": "international",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "联合国大会通过《消除对妇女一切形式歧视公约》（CEDAW），被称为'国际妇女权利宪章'，是国际人权法领域最重要的女性权利文书。",
+    "content": "1979年12月18日，联合国大会以130票赞成、0票反对、10票弃权的压倒性结果通过了《消除对妇女一切形式歧视公约》（Convention on the Elimination of All Forms of Discrimination against Women，简称CEDAW）。\n\n公约共30条，系统性定义了'对妇女的歧视'，并要求缔约国采取一切适当措施消除歧视，保障女性在政治、经济、社会、文化、公民等各个领域的平等权利。公约还要求各国定期向CEDAW委员会报告履约情况。\n\n截至2024年，已有189个国家批准或加入了该公约。中国政府于1980年签署并于1981年批准了该公约，是最早批准的国家之一。",
+    "sources": [
+      { "title": "联合国大会第34/180号决议（1979）", "type": "document", "url": "https://www.ohchr.org" }
+    ]
+  },
+  {
+    "id": "cn-1989-spring-bud",
+    "titleZh": "春蕾计划启动",
+    "titleEn": "Spring Bud Project Launched",
+    "date": { "year": 1989, "month": 1, "day": 1 },
+    "dateDisplay": "1989年",
+    "category": "domestic",
+    "tags": [
+      { "id": "education", "labelZh": "教育", "labelEn": "Education" },
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "全国妇联和中国儿童少年基金会发起'春蕾计划'，旨在帮助贫困地区失学女童重返校园，是中国最具影响力的女童教育公益项目之一。",
+    "content": "1989年，在全国妇联领导下，中国儿童少年基金会发起并实施了'春蕾计划'儿童公益项目，专门资助贫困地区失辍学女童重返校园。\n\n项目名称寓意'春天里的花蕾'，寄望每个女孩都能在关爱中绽放。至2023年，春蕾计划累计募集善款超过30亿元，资助女童超过400万人次，惠及全国31个省区市。\n\n春蕾计划还逐渐从单纯的经济资助扩展到心理辅导、职业教育等领域。多位曾经的'春蕾女童'后来考取大学、成为教师、医生、工程师等，项目的代际效应持续显现。",
+    "sources": [
+      { "title": "中国儿童少年基金会. 春蕾计划.", "type": "website", "url": "https://www.cctf.org.cn" }
+    ]
+  },
+  {
+    "id": "cn-1992-women-law",
+    "titleZh": "《中华人民共和国妇女权益保障法》颁布",
+    "titleEn": "China Promulgates Law on Protection of Women's Rights and Interests",
+    "date": { "year": 1992, "month": 4, "day": 3 },
+    "dateDisplay": "1992年4月3日",
+    "category": "domestic",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "第七届全国人大通过《中华人民共和国妇女权益保障法》，是中国第一部以妇女为主体、全面保障妇女权益的基本法律。",
+    "content": "1992年4月3日，第七届全国人民代表大会第五次会议通过了《中华人民共和国妇女权益保障法》，这是中国第一部以妇女为主体、全面保障妇女权益的基本法律。\n\n该法共九章五十四条，从政治权利、文化教育权益、劳动和社会保障权益、财产权益、人身权利、婚姻家庭权益等六个方面系统规定了妇女的各项权利，并明确了法律责任和救济途径。\n\n该法于2005年、2018年和2022年进行了三次修订，其中2022年的修订新增了30条，将'男女平等'基本国策写入法律总则，并首次以法律形式明确了就业性别歧视的判定标准，进一步完善了对女性权益的保护体系。",
+    "sources": [
+      { "title": "中华人民共和国妇女权益保障法（1992年）", "type": "document", "url": "https://www.npc.gov.cn" }
+    ]
+  },
+  {
+    "id": "cn-1995-beijing-conference",
+    "titleZh": "第四次世界妇女大会在北京召开",
+    "titleEn": "Fourth World Conference on Women Held in Beijing",
+    "date": { "year": 1995, "month": 9, "day": 4 },
+    "dateDisplay": "1995年9月4日",
+    "category": "domestic",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "第四次世界妇女大会在北京召开，通过了《北京宣言》和《行动纲领》，中国政府首次将男女平等确定为基本国策。这是全球妇女运动史上最重要的会议之一。",
+    "content": "1995年9月4日至15日，联合国第四次世界妇女大会在北京召开，来自189个国家和地区的17000多名代表参会，另有约30000人参加了同期举行的非政府组织（NGO）论坛。\n\n大会通过了《北京宣言》和《行动纲领》，涵盖妇女与贫困、教育、健康、暴力、武装冲突、经济、权力与决策、机制、人权、媒体、环境、女童等12个关键领域，成为此后全球推动性别平等的纲领性文件。\n\n在此次大会上，中国政府正式宣布将'男女平等'确立为一项基本国策。这是一百多年来中国妇女运动的里程碑成就，也标志着中国与国际妇女运动在目标上的深度融合。",
+    "sources": [
+      { "title": "United Nations. (1995). Beijing Declaration and Platform for Action.", "type": "document", "url": "https://www.un.org/womenwatch/daw/beijing/" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/1995-Beijing-Conference-Hillary-Clinton.jpg/640px-1995-Beijing-Conference-Hillary-Clinton.jpg"
+    ]
+  },
+  {
+    "id": "cn-2005-women-law-amendment",
+    "titleZh": "男女平等基本国策写入《妇女权益保障法》",
+    "titleEn": "Gender Equality as State Policy Enshrined in Women's Rights Law",
+    "date": { "year": 2005, "month": 8, "day": 28 },
+    "dateDisplay": "2005年8月28日",
+    "category": "domestic",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "全国人大常委会修订《妇女权益保障法》，首次将'男女平等基本国策'写入法律正文，并开通12338妇女维权公益服务热线。",
+    "content": "2005年8月28日，第十届全国人大常委会第十七次会议通过了《关于修改〈中华人民共和国妇女权益保障法〉的决定》，这是该法自1992年颁布以来的首次修订。\n\n修订后的法律在总则中明确规定'实行男女平等是国家的基本国策'——这是'基本国策'的表述首次出现在这部法律中。此外，修订增加了禁止性骚扰的规定，强化了妇女在农村土地承包经营、集体经济组织收益分配等方面的权益保障。\n\n同年，全国妇联开通了'12338'妇女维权公益服务热线，为全国女性提供法律咨询、心理疏导和维权服务。",
+    "sources": [
+      { "title": "中华人民共和国妇女权益保障法（2005年修订）", "type": "document", "url": "https://www.npc.gov.cn" }
+    ]
+  },
+  {
+    "id": "int-2012-malala",
+    "titleZh": "马拉拉·优素福扎伊遭塔利班枪击",
+    "titleEn": "Malala Yousafzai Shot by the Taliban",
+    "date": { "year": 2012, "month": 10, "day": 9 },
+    "dateDisplay": "2012年10月9日",
+    "category": "international",
+    "tags": [
+      { "id": "education", "labelZh": "教育", "labelEn": "Education" },
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" }
+    ],
+    "summary": "巴基斯坦少女马拉拉因倡导女童教育遭塔利班枪击头部，幸存后成为全球女童教育最知名的代言人，2014年获诺贝尔和平奖。",
+    "content": "2012年10月9日，年仅15岁的巴基斯坦女学生马拉拉·优素福扎伊在校车上遭塔利班武装分子枪击，子弹击中头部。她因公开撰文呼吁女孩应有受教育权而成为攻击目标。\n\n马拉拉在巴基斯坦和英国接受紧急救治后奇迹般康复，并继续以更大的声量倡导全球女童教育。她的勇气和坚持赢得了全世界的尊重。\n\n2014年，17岁的马拉拉与印度儿童权利活动家凯拉什·萨蒂亚尔蒂共同获得诺贝尔和平奖，成为史上最年轻的诺贝尔奖得主。她在联合国演讲中说：'一个孩子、一位教师、一本书、一支笔，就能改变世界。'",
+    "sources": [
+      { "title": "Yousafzai, M. (2013). I Am Malala. Little, Brown.", "type": "book" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Malala_Yousafzai_par_Claude_Truong-Ngoc_novembre_2013.jpg/480px-Malala_Yousafzai_par_Claude_Truong-Ngoc_novembre_2013.jpg"
+    ]
+  },
+  {
+    "id": "int-2015-saudi-women-vote",
+    "titleZh": "沙特阿拉伯女性首次获得选举权和被选举权",
+    "titleEn": "Saudi Women Vote for the First Time",
+    "date": { "year": 2015, "month": 12, "day": 12 },
+    "dateDisplay": "2015年12月12日",
+    "category": "international",
+    "tags": [
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "沙特阿拉伯女性首次在市政选举中投票和参选，标志着这个长期实行性别隔离制度的国家在妇女权利领域迈出了历史性的一步。",
+    "content": "2015年12月12日，沙特阿拉伯举行市政选举，女性首次被允许投票和参选。这是沙特历史上第一次女性行使选举权。\n\n约有13万名女性登记投票，约900名女性参选，最终至少20名女性当选市政委员。\n\n这一变化的背景是阿卜杜拉国王在2011年宣布的改革措施。尽管这一步距全球最早的女性投票权（新西兰1893年）相差122年，且沙特女性在监护制度下仍面临驾照、旅行、结婚等诸多方面的限制，但这次选举仍然是该国妇女权利史上的分水岭时刻。",
+    "sources": [
+      { "title": "BBC News. (2015). Saudi women vote for first time in local elections.", "type": "article", "url": "https://www.bbc.com/news/world-middle-east-35075702" }
+    ]
+  },
+  {
+    "id": "cn-2016-domestic-violence-law",
+    "titleZh": "《中华人民共和国反家庭暴力法》正式实施",
+    "titleEn": "China's First Anti-Domestic Violence Law Takes Effect",
+    "date": { "year": 2016, "month": 3, "day": 1 },
+    "dateDisplay": "2016年3月1日",
+    "category": "domestic",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" },
+      { "id": "marriage", "labelZh": "婚姻家庭", "labelEn": "Marriage" }
+    ],
+    "summary": "中国首部《反家庭暴力法》正式实施，首次以立法形式明确家庭暴力的违法性，创设了告诫制度和人身安全保护令制度。",
+    "content": "2016年3月1日，《中华人民共和国反家庭暴力法》正式实施，这是中国第一部专门针对家庭暴力的法律。\n\n该法的三大核心制度：(1) 强制报告义务——学校、医院等机构发现无民事行为能力人或限制民事行为能力人遭受家暴应报告；(2) 告诫制度——公安机关对轻微家暴行为出具告诫书；(3) 人身安全保护令——法院在72小时内作出裁定，禁止施暴者接近受害人，有效期不超过6个月。\n\n该法的出台标志着中国家暴问题从'家务事'转变为法律问题，是妇女权益保障领域的重大制度突破。据统计，2016年至2023年，全国法院累计签发人身安全保护令超过3万份。",
+    "sources": [
+      { "title": "中华人民共和国反家庭暴力法（2016年）", "type": "document", "url": "https://www.npc.gov.cn" }
+    ]
+  },
+  {
+    "id": "int-2017-womens-march",
+    "titleZh": "全球女性大游行创史上最大单日抗议纪录",
+    "titleEn": "Women's March Becomes Largest Single-Day Protest in US History",
+    "date": { "year": 2017, "month": 1, "day": 21 },
+    "dateDisplay": "2017年1月21日",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "特朗普就职次日，全球超过500万人走上街头参与'女性大游行'，其中华盛顿特区即有约50万人参加，成为美国历史上最大规模的单日抗议活动。",
+    "content": "2017年1月21日，即唐纳德·特朗普就任美国总统的第二天，全球超过500万人参与了'女性大游行'（Women's March），表达对女性权利、移民权利、LGBTQ+权利、种族平等和环保等议题的支持。\n\n华盛顿特区的游行吸引了约50万人参加，远超主办方预期的20万人。全美各地和全球80多个国家同步举行了600多场声援游行。\n\n这场运动并非由传统政治组织发起，而是在社交媒体上由普通女性自发组织。它以'粉红猫帽'（pussyhat）为标志，成为21世纪迄今为止规模最大的女性主义街头行动之一。",
+    "sources": [
+      { "title": "The Washington Post. (2017). Women's March draws millions worldwide.", "type": "article" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2017_Women%27s_March_Washington_DC_170121-Z-IT216-083_%2832456789286%29.jpg/640px-2017_Women%27s_March_Washington_DC_170121-Z-IT216-083_%2832456789286%29.jpg"
+    ]
+  },
+  {
+    "id": "int-2017-metoo",
+    "titleZh": "#MeToo运动席卷全球",
+    "titleEn": "#MeToo Movement Goes Global",
+    "date": { "year": 2017, "month": 10, "day": 15 },
+    "dateDisplay": "2017年10月",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" }
+    ],
+    "summary": "美国女演员艾莉莎·米兰诺在社交媒体上发起#MeToo话题，鼓励性骚扰和性侵受害者公开说出自己的经历，迅速在全球85个国家引发广泛响应。",
+    "content": "2017年10月，随着好莱坞制片人哈维·韦恩斯坦性侵丑闻的曝光，女演员艾莉莎·米兰诺在推特上发文：'如果你曾遭受性骚扰或性侵犯，请回复me too。'这一呼吁在24小时内获得了超过50万条回复。\n\n'Me Too'这一短语最早由美国社会活动家塔拉纳·伯克于2006年提出，旨在帮助性暴力幸存者（尤其是有色人种女性）建立互助网络。2017年的社交媒体浪潮使其成为一场全球性的社会运动。\n\n这场运动引发了全球范围内对性骚扰、性侵和性别权力结构的反思和讨论，推动了多个国家的法律改革和职场规范重塑。#MeToo被翻译为多种语言，在至少85个国家形成了本地化的讨论和行动。",
+    "sources": [
+      { "title": "Burke, T. (2021). Unbound: My Story of Liberation and the Birth of the Me Too Movement.", "type": "book" }
+    ]
+  },
+  {
+    "id": "int-2018-saudi-driving",
+    "titleZh": "沙特阿拉伯女性获得合法驾驶权",
+    "titleEn": "Saudi Arabia Lifts Ban on Women Driving",
+    "date": { "year": 2018, "month": 6, "day": 24 },
+    "dateDisplay": "2018年6月24日",
+    "category": "international",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "沙特阿拉伯解除实施了数十年的女性驾驶禁令，成千上万名沙特女性在解禁当天首次合法驾车上路。",
+    "content": "2018年6月24日，沙特阿拉伯正式解除女性驾驶禁令，结束了这个国家长达数十年的禁止女性开车的规定。这是萨勒曼国王和王储穆罕默德推动的'2030愿景'改革的一部分。\n\n解禁当天，成千上万名沙特女性领取了驾照或坐上了驾驶座。许多女性通过社交媒体分享了她们第一次合法驾车的视频和照片。\n\n这场胜利来之不易——自1990年起，沙特女性活动家就发起过多次驾车抗议活动，许多人因此被逮捕或限制出境。2018年解禁之际，至少有十几名女性活动家仍在狱中。驾驶权的获得被视为沙特女性争取更大自主权的重要一步。",
+    "sources": [
+      { "title": "Reuters. (2018). Saudi Arabia ends ban on women driving.", "type": "article", "url": "https://www.reuters.com" }
+    ]
+  },
+  {
+    "id": "cn-2020-civil-code",
+    "titleZh": "《中华人民共和国民法典》通过",
+    "titleEn": "China's Civil Code Adopted with Enhanced Women's Protections",
+    "date": { "year": 2020, "month": 5, "day": 28 },
+    "dateDisplay": "2020年5月28日",
+    "category": "domestic",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "marriage", "labelZh": "婚姻家庭", "labelEn": "Marriage" },
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" }
+    ],
+    "summary": "十三届全国人大三次会议通过《民法典》，对性骚扰防治、夫妻共同财产、家务劳动补偿等作出规定，特别是离婚家务劳动补偿制度为家庭主妇提供了重要法律保障。",
+    "content": "2020年5月28日，十三届全国人大三次会议表决通过了《中华人民共和国民法典》，自2021年1月1日起施行。\n\n民法典在妇女权益保障方面的主要亮点包括：(1) 首次在民事基本法中明确禁止性骚扰，并规定机关、企业、学校等单位负有预防义务；(2) 确立夫妻共同债务'共签共认'原则，保护女性不因配偶的单方举债而背负不合理的债务；(3) 规定离婚时对家务劳动付出较多的一方有权请求补偿，使家庭主妇的隐形劳动价值得到法律承认；(4) 完善了离婚损害赔偿制度。\n\n其中家务劳动补偿条款尤其受到关注——它意味着全职主妇在离婚时不再因'没有收入'而处于不利地位。",
+    "sources": [
+      { "title": "中华人民共和国民法典（2020年）", "type": "document", "url": "https://www.npc.gov.cn" }
+    ]
+  },
+  {
+    "id": "int-2021-kamala-harris",
+    "titleZh": "卡玛拉·哈里斯就任美国首位女副总统",
+    "titleEn": "Kamala Harris Inaugurated as First Woman US Vice President",
+    "date": { "year": 2021, "month": 1, "day": 20 },
+    "dateDisplay": "2021年1月20日",
+    "category": "international",
+    "tags": [
+      { "id": "leadership", "labelZh": "先驱人物", "labelEn": "Leadership" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "卡玛拉·哈里斯宣誓就任美国副总统，成为美国历史上第一位女性、第一位非裔和第一位南亚裔副总统，打破了美国政坛最高层的性别与种族天花板。",
+    "content": "2021年1月20日，卡玛拉·哈里斯宣誓就任美国第49任副总统，创造了多项历史：她是美国建国244年来第一位担任此职的女性，也是第一位非洲裔和南亚裔副总统。\n\n哈里斯在就职当天穿着一袭紫色服装——紫色是女性参政运动的传统颜色，也是对女权运动先驱的致敬。\n\n哈里斯的当选在1920年美国女性获得选举权的整整100年后，标志着美国女性政治参与的一个重要里程碑。她在胜选演讲中说：'虽然我可能是担任这一职务的第一位女性，但我不会是最后一位。因为我今晚看到的每一个小女孩都会接收到这个信号：这是一个充满可能性的国家。'",
+    "sources": [
+      { "title": "The New York Times. (2021). Kamala Harris Makes History as First Woman Vice President.", "type": "article" }
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/480px-Kamala_Harris_Vice_Presidential_Portrait.jpg"
+    ]
+  },
+  {
+    "id": "cn-2022-women-law-revision",
+    "titleZh": "《妇女权益保障法》完成大修",
+    "titleEn": "Major Revision of China's Women's Rights Protection Law",
+    "date": { "year": 2022, "month": 10, "day": 30 },
+    "dateDisplay": "2022年10月30日",
+    "category": "domestic",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "labor", "labelZh": "劳动权益", "labelEn": "Labor" }
+    ],
+    "summary": "全国人大常委会通过全面修订的《妇女权益保障法》，新增30条，首次以法律形式明确就业性别歧视判定标准，将男女平等评估机制纳入法律。",
+    "content": "2022年10月30日，第十三届全国人大常委会第三十七次会议通过了全面修订的《中华人民共和国妇女权益保障法》，自2023年1月1日起施行。\n\n本次修订由原来的9章54条增至10章86条，增加了30多个条文。主要亮点包括：(1) 将'男女平等'基本国策直接写入总则；(2) 首次以法律形式明确了就业性别歧视的具体情形和判定标准；(3) 规定用人单位在招聘中不得询问女性求职者婚育情况；(4) 建立性别平等评估机制；(5) 强化了对性骚扰的防治措施。\n\n这次大修被视为中国妇女权益保障法治化进程中的又一个里程碑。",
+    "sources": [
+      { "title": "中华人民共和国妇女权益保障法（2022年修订）", "type": "document", "url": "https://www.npc.gov.cn" }
+    ]
+  },
+  {
+    "id": "int-2022-roe-overturned",
+    "titleZh": "美国最高法院推翻罗诉韦德案",
+    "titleEn": "US Supreme Court Overturns Roe v. Wade",
+    "date": { "year": 2022, "month": 6, "day": 24 },
+    "dateDisplay": "2022年6月24日",
+    "category": "international",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "health", "labelZh": "健康", "labelEn": "Health" }
+    ],
+    "summary": "美国最高法院在多布斯案中以6:3推翻了近50年历史的'罗诉韦德案'判例，终结了联邦层面的堕胎权宪法保护，引发全美及全球强烈反响。",
+    "content": "2022年6月24日，美国最高法院在'多布斯诉杰克逊妇女健康组织案'（Dobbs v. Jackson Women's Health Organization）中以6:3的票数作出裁决，推翻了1973年的'罗诉韦德案'（Roe v. Wade）和1992年的'计划生育联盟诉凯西案'（Planned Parenthood v. Casey）判例。\n\n这一裁决意味着联邦宪法对堕胎权的保护被终止，各州获得了自行决定堕胎合法性的权力。裁决后，约20个州迅速启动或准备实施限制/禁止堕胎的法律，部分州的'触发法案'在裁决当天即自动生效。\n\n这一事件被视为全球女性生育自主权的重大倒退。联合国人权事务高级专员称其为'对女性人权和性别平等的重大打击'。在全美及世界各地，数百万人走上街头抗议这一裁决。",
+    "sources": [
+      { "title": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022).", "type": "document" },
+      { "title": "OHCHR. (2022). Bachelet on US ruling on abortion.", "type": "website", "url": "https://www.ohchr.org" }
+    ]
+  },
+  {
+    "id": "int-2022-iran-protests",
+    "titleZh": "伊朗'妇女、生命、自由'运动爆发",
+    "titleEn": "Iran's 'Woman, Life, Freedom' Uprising",
+    "date": { "year": 2022, "month": 9, "day": 16 },
+    "dateDisplay": "2022年9月",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" }
+    ],
+    "summary": "22岁的伊朗库尔德女性马赫萨·阿米尼因'头巾佩戴不当'被道德警察拘留后身亡，引发伊朗全国性抗议运动，口号'妇女、生命、自由'响彻全球。",
+    "content": "2022年9月16日，22岁的伊朗库尔德族女子马赫萨·阿米尼（Mahsa Amini）在被道德警察因'头巾佩戴不当'拘留期间死亡。她的死引发了伊朗自1979年革命以来最大规模的反政府抗议浪潮。\n\n抗议运动的标志性口号'妇女、生命、自由'（Zan, Zendegi, Azadi / Woman, Life, Freedom）迅速传播。伊朗女性在抗议中剪掉头发、焚烧头巾，以表达对强制面纱法的拒绝。\n\n这场运动持续数月，蔓延至伊朗全境数百个城市，得到全球范围的声援。2023年，阿米尼被追授欧盟'萨哈罗夫思想自由奖'。2024年，伊朗抗议女性被《时代》周刊评为年度人物。这场运动深刻展示了女性的身体自主权与政治自由之间的紧密关联。",
+    "sources": [
+      { "title": "Amnesty International. (2023). Iran: Women, Life, Freedom uprising.", "type": "article", "url": "https://www.amnesty.org" },
+      { "title": "Time Magazine. (2024). The Women of Iran: Person of the Year.", "type": "article" }
+    ]
+  },
+  {
+    "id": "int-2026-csw70",
+    "titleZh": "联合国妇地会第70届会议首次以表决方式通过《商定结论》",
+    "titleEn": "CSW70 Adopts Agreed Conclusions by Vote for the First Time in History",
+    "date": { "year": 2026, "month": 3, "day": 19 },
+    "dateDisplay": "2026年3月19日",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "联合国妇女地位委员会第70届会议打破成立以来协商一致通过文件的惯例，首次以表决方式（37票赞成、1票反对）通过《商定结论》，主题聚焦'保障所有妇女和女童诉诸司法的机会'。",
+    "content": "2026年3月9日至19日，联合国妇女地位委员会第70届会议（CSW70）在纽约联合国总部召开，190个会员国参加，包括2位国家元首、1位副总统、5位副总理和75位部长。\n\n本届会议的优先主题为'确保和加强所有妇女和女童诉诸司法的机会'。这是CSW历史上首次在闭幕会议上采用表决方式通过《商定结论》，结果为37票赞成、1票反对（美国）、6票弃权。\n\n会议揭示的严峻数据：全球女性享有的法定权利仅为男性的64%，弥合法律保护差距可能需要286年；54%的国家缺乏基于同意的强奸法律定义；72%的国家仍全部或部分允许童婚；44%的国家没有同工同酬立法。\n\n本届会议也暴露出围绕女性权利的多边合作面临的分歧——性别平等议题在国际政治博弈中日益复杂化。",
+    "sources": [
+      { "title": "Women's Studies Institute of China. (2026). CSW70 Report.", "type": "article", "url": "https://www.wsic.ac.cn" },
+      { "title": "Focus 2030. (2026). CSW70: UN Women's Rights Negotiations.", "type": "article", "url": "https://focus2030.org" }
+    ]
+  },
+  {
+    "id": "int-2026-iwd",
+    "titleZh": "2026年国际妇女节：'权利、公正、行动——为所有妇女和女童'",
+    "titleEn": "2026 International Women's Day: Rights. Justice. Action. For ALL Women and Girls",
+    "date": { "year": 2026, "month": 3, "day": 8 },
+    "dateDisplay": "2026年3月8日",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "2026年国际妇女节以'权利、公正、行动——为所有妇女和女童'为主题，北京联合国大楼举办高级别对话，呼吁各国将纸面上的性别平等承诺转化为实际行动。",
+    "content": "2026年3月8日国际妇女节，联合国确定的年度主题为'权利、公正、行动：为了所有妇女和女童'（Rights. Justice. Action. For ALL Women and Girls），强调从法律条文走向实际执行，关注被多重歧视边缘化的女性群体。\n\n联合国难民署（UNHCR）在北京联合国大楼举办了高级别对话活动，全国妇联副主席冯玲、联合国驻华协调员（临时代办）夏泽翰教授等出席。与会者围绕性别暴力、妇女经济赋权、女童教育等议题展开讨论。\n\n在致辞中，联合国方面指出，当今全球仍有数以亿计的女性面临系统性歧视和暴力威胁——在全球范围内，弥合法律保护中的性别差距可能需要近300年时间，'行动'比以往任何时候都更加紧迫。",
+    "sources": [
+      { "title": "UNHCR China. (2026). 2026 International Women's Day High-Level Dialogue.", "type": "website", "url": "https://www.unhcr.org/cn" }
+    ]
+  },
+  {
+    "id": "int-2026-india-menstrual-rights",
+    "titleZh": "印度最高法院裁定经期卫生设施为宪法权利",
+    "titleEn": "Indian Supreme Court Rules Menstrual Hygiene Facilities a Constitutional Right",
+    "date": { "year": 2026, "month": 4, "day": 1 },
+    "dateDisplay": "2026年4月",
+    "category": "international",
+    "tags": [
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" },
+      { "id": "education", "labelZh": "教育", "labelEn": "Education" },
+      { "id": "health", "labelZh": "健康", "labelEn": "Health" }
+    ],
+    "summary": "印度最高法院作出里程碑式判决，裁定获得经期卫生设施是宪法保障的基本权利，要求所有学校安装男女分开的厕所并提供免费卫生巾。这一判决被视为消除女童教育障碍和性别不平等的重要突破。",
+    "content": "2026年4月，印度最高法院作出了一项具有里程碑意义的判决：获得经期卫生设施是印度宪法第21条（生命权和个人自由权）保障的基本权利。\n\n法院裁决的核心要求包括：所有学校必须安装男女分开的厕所；提供清洁用水、免费卫生巾和废弃物处理设施；政府需将经期卫生纳入公共卫生政策的优先领域。\n\n这一判决的背景是印度长期存在的'经期贫困'（period poverty）问题——大量女童因学校缺乏基本卫生设施而在青春期辍学。据估计，印度约有2300万女孩在初潮后辍学。法庭指出，缺乏经期卫生设施的学校构成了对女孩受教育权的实质剥夺和系统性性别歧视。\n\n该判决在印度国内引起广泛赞誉，也被国际法律界和女权组织视为将'性别基础设施'纳入宪法保护的重要先例。",
+    "sources": [
+      { "title": "International Bar Association. (2026). Indian Supreme Court tackles gender inequality with landmark ruling.", "type": "article", "url": "https://www.ibanet.org" }
+    ]
+  },
+  {
+    "id": "int-2026-us-exits-un-women",
+    "titleZh": "美国宣布退出联合国妇女署",
+    "titleEn": "United States Withdraws from UN Women",
+    "date": { "year": 2026, "month": 3, "day": 1 },
+    "dateDisplay": "2026年3月",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "suffrage", "labelZh": "政治参与", "labelEn": "Suffrage" }
+    ],
+    "summary": "美国政府宣布退出联合国妇女署（UN Women），同时恢复并扩大'全球禁言规则'，在CSW70上对多项妇女权益决议投出唯一反对票，引发国际社会对全球性别平等进程倒退的广泛担忧。",
+    "content": "2026年3月，美国特朗普政府宣布退出联合国妇女署（UN Women），这是继其第一任期退出世界卫生组织（2020年宣布）和联合国人权理事会（2018年）之后，再次退出联合国专门机构。\n\n与此同时，美国恢复了所谓'全球禁言规则'（Global Gag Rule，即'墨西哥城政策'）并大幅扩大其适用范围——禁止所有接受美国全球卫生援助的外国非政府组织提供、倡导或提及堕胎服务，影响波及数十亿美元的全球卫生援助资金。\n\n在CSW70会议上，美国代表对'妇女、女童与HIV/艾滋病'决议投出唯一反对票，并提出了一项将'性别'仅限定为'男性和女性'的决议草案，被比利时和巴西主导的'不采取行动动议'所阻止。\n\n联合国80周年改革倡议中提出的将联合国妇女署与联合国人口基金合并的建议，也引发了妇女权益组织对性别平等议题独立性和可见度的担忧。多国代表和国际非政府组织表示，2026年正成为全球女性权益多边合作的一个关键转折点。",
+    "sources": [
+      { "title": "Focus 2030. (2026). CSW70: UN Women's rights negotiations marked by deepening divisions.", "type": "article", "url": "https://focus2030.org" },
+      { "title": "Frauenhauskoordinierung. (2026). 70th session of the UN Commission on the Status of Women.", "type": "article", "url": "https://www.frauenhauskoordinierung.de" }
+    ]
+  },
+  {
+    "id": "int-2026-women-empowerment-conference",
+    "titleZh": "2026年妇女赋权大会在墨尔本召开",
+    "titleEn": "2026 Women's Empowerment Conference Held in Melbourne",
+    "date": { "year": 2026, "month": 4, "day": 27 },
+    "dateDisplay": "2026年4月27日",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "labor", "labelZh": "劳动权益", "labelEn": "Labor" },
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" }
+    ],
+    "summary": "2026年妇女赋权大会在澳大利亚墨尔本举办，来自189个国家的近6000名政要、社会活动家及性别平等倡导者参加，聚焦性别平等、妇女经济赋权及预防性别暴力等议题。",
+    "content": "2026年4月27日至5月1日，2026年妇女赋权大会（Women's Empowerment Conference 2026）在澳大利亚墨尔本会展中心召开。\n\n来自189个国家的近6000名政要、社会活动家、学者和性别平等倡导者参加了会议。大会议题涵盖：预防和应对性别暴力、妇女经济赋权与创业、缩小数字性别鸿沟、气候变化中的女性处境、原住民女性权利等。\n\n柬埔寨妇女事务部长黄甘塔帕薇率团出席并发表讲话，分享了该国在推动妇女经济赋权方面的经验。多位来自太平洋岛国的女性领导人强调了气候危机对女性生计的直接影响。\n\n大会发布了一份全球妇女赋权行动路线图，呼吁各国政府在未来五年内将性别预算的占比提高到财政预算的5%以上。",
+    "sources": [
+      { "title": "Jianhua Daily. (2026). 黄甘塔帕薇部长率团出席2026年妇女赋权大会.", "type": "article", "url": "https://www.jianhuadaily.com" }
+    ]
+  },
+  {
+    "id": "cn-2021-dumeizhu",
+    "titleZh": "都美竹曝光吴亦凡事件引发中国版#MeToo讨论",
+    "titleEn": "Du Meizhu's Expose of Kris Wu Sparks China's #MeToo Reckoning",
+    "date": { "year": 2021, "month": 7, "day": 18 },
+    "dateDisplay": "2021年7月",
+    "category": "domestic",
+    "tags": [
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" },
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "19岁的都美竹在微博公开指控艺人吴亦凡涉嫌性侵未成年女性，引发全网红热议，最终吴亦凡被判13年有期徒刑并驱逐出境，成为中国娱乐圈#MeToo运动的标志性事件。",
+    "content": "2021年7月，19岁的都美竹通过微博接连发文，指控加拿大籍艺人吴亦凡以选角、签约等名义引诱并性侵多名年轻女性，其中包括未成年人。\n\n该事件迅速引爆中国社交媒体，微博话题阅读量达到数十亿。数十名女性相继站出来分享类似经历，形成了中国互联网史上规模最大的性侵受害者集体发声运动之一。虽然#MeToo标签在微博被限制，但女性用户的互助和叙事分享以'Girls help girls'等话语延续传播。\n\n2022年11月，北京市朝阳区人民法院一审以强奸罪、聚众淫乱罪判处吴亦凡有期徒刑13年，附加驱逐出境。此案被视为中国司法在处理涉及名人、跨国因素的性侵案件上的标志性判决，也为更多女性受害者站出来提供了勇气和先例。",
+    "sources": [
+      { "title": "北京市朝阳区人民法院（2022）. 吴亦凡案一审判决.", "type": "document" },
+      { "title": "BBC News中文. (2021). 都美竹与吴亦凡事件时间线.", "type": "article" }
+    ]
+  },
+  {
+    "id": "cn-2022-tangshan",
+    "titleZh": "唐山打人事件引爆全国女性安全大讨论",
+    "titleEn": "Tangshan Assault Triggers National Reckoning on Women's Safety",
+    "date": { "year": 2022, "month": 6, "day": 10 },
+    "dateDisplay": "2022年6月10日",
+    "category": "domestic",
+    "tags": [
+      { "id": "violence", "labelZh": "反暴力", "labelEn": "Anti-Violence" },
+      { "id": "law", "labelZh": "法律", "labelEn": "Law" }
+    ],
+    "summary": "唐山烧烤店内多名男子骚扰女性遭拒后暴力围殴，监控视频引爆微博热搜——前六名话题全部与之相关。事件引发'任何女性都可能成为受害者'的全民共情和女性公共安全感的深刻反思。",
+    "content": "2022年6月10日凌晨，河北省唐山市一家烧烤店内，一名男子对正在用餐的四名女子实施骚扰（触摸背部），遭到拒绝后与同行多名男子对受害人进行暴力殴打，将受害者拖出店外继续施暴。监控视频流出后在全国范围内引发强烈公愤。\n\n事件的舆论规模和强度在中国互联网史上极为罕见——微博热搜榜前六名全部被该事件相关话题占据，多个词条同时上榜持续数十小时。网民称'上微博快十年了，第一次见这么大的阵仗'。\n\n《中国妇女报》连发评论：'不严惩不足以平民愤，不严惩不足以抚伤痕，不严惩不足以护尊严。'《人民日报》、央视新闻等官媒密集发声。同时，该事件也引发了关于女性公共空间安全感的系统性讨论——受害女性穿着正常、在公开场所安静用餐也遭遇暴力，揭示了对女性的暴力行为与受害者'自保'程度无关。\n\n9名涉案人员全部被抓获，案件由廊坊公安异地侦办，唐山市随后开展'雷霆风暴'治安整治。2024年1月，主犯陈继志被判处24年有期徒刑。",
+    "sources": [
+      { "title": "中国妇女报. (2022-06-10). 评论：零容忍.", "type": "article" },
+      { "title": "BBC News中文. (2022). 唐山暴力事件为何在中国网络延烧.", "type": "article", "url": "https://www.bbc.com/zhongwen/trad/chinese-news-61784051" }
+    ]
+  },
+  {
+    "id": "cn-2022-ueno-chizuko",
+    "titleZh": "上野千鹤子在中国成为现象级女性主义学者",
+    "titleEn": "Chizuko Ueno Becomes a Feminist Phenomenon in China",
+    "date": { "year": 2022, "month": 9, "day": 1 },
+    "dateDisplay": "2022年",
+    "category": "domestic",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" },
+      { "id": "education", "labelZh": "教育", "labelEn": "Education" }
+    ],
+    "summary": "日本女性主义学者上野千鹤子的多部著作在中国集中出版并成为畅销书，其'自由观'论断'女性主义不是教你变成强人，而是给你自由做弱者'在中国社交媒体广泛传播，推动了中国年轻一代的女性主义启蒙。",
+    "content": "2022年，日本社会学家、东京大学名誉教授上野千鹤子的多部著作在中国大陆集中出版，包括《厌女》《父权制与资本主义》《从零开始的女性主义》等。这些著作在当当、京东等电商平台多次冲上畅销榜前列，《厌女》更是长期占据社会科学类图书销量榜首。\n\n2023年2月，上野千鹤子与三位中国北京大学毕业生的对谈视频在B站和微博引发巨大讨论，她的'自由观'——'女性主义不是教你变成强人，而是给你自由做弱者'——在全网被反复引用和讨论。\n\n上野千鹤子的走红标志着中国新一代年轻女性对系统性性别理论的渴求，也催生了'girls help girls''女性是一种处境'等本土化话语的流行。小红书、豆瓣等平台上涌现出大量女性主义读书会和讨论组，成为2022-2024年间最重要的文化现象之一。",
+    "sources": [
+      { "title": "上野千鹤子（2015/2022中文版）. 厌女. 上海三联书店.", "type": "book" },
+      { "title": "界面新闻. (2023). 上野千鹤子为何在中国如此受欢迎.", "type": "article" }
+    ]
+  },
+  {
+    "id": "cn-2023-womens-script",
+    "titleZh": "女书文化在社交媒体复兴",
+    "titleEn": "Nüshu Script Revival on Chinese Social Media",
+    "date": { "year": 2023, "month": 3, "day": 1 },
+    "dateDisplay": "2023年",
+    "category": "domestic",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" }
+    ],
+    "summary": "起源于湖南江永的世界上唯一性别专属文字——女书，在小红书等平台掀起学习热潮，话题浏览量从2574万飙升至5196万，成为年轻女性表达身份认同的文化符号。",
+    "content": "女书是世界上唯一已知的由女性创造并专属女性使用的文字系统，起源于19世纪的中国湖南江永地区。历史上，江永女性被剥夺了学习汉字书写的权利，于是创造了这套仅在女性之间流传的神秘文字，用于通信、吟唱和记录生活。\n\n2023年，随着女性意识觉醒浪潮，女书在小红书等社交媒体上突然走红。年轻女性开始学习书写女书，将其纹在身上，制作成饰品和艺术作品。在她们看来，女书不仅是一种文字，更是'女性在压迫中创造出来的属于自己的语言'，代表着女性的韧性和创造力。\n\n小红书话题#女书# 的浏览量从2022年的2574万飙升至2024年的超1亿。女书也成为中国女性寻找本土化女性主义表达的一个标志性文化符号。",
+    "sources": [
+      { "title": "千瓜数据. (2023). 2023「她研究」深度数据报告.", "type": "report" }
+    ]
+  },
+  {
+    "id": "int-2024-4b-movement",
+    "titleZh": "韩国4B运动全球蔓延——不婚不育不约会不性",
+    "titleEn": "South Korea's 4B Movement Goes Global After Trump's Re-election",
+    "date": { "year": 2024, "month": 11, "day": 6 },
+    "dateDisplay": "2024年11月",
+    "category": "international",
+    "tags": [
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" },
+      { "id": "marriage", "labelZh": "婚姻家庭", "labelEn": "Marriage" }
+    ],
+    "summary": "特朗普再次当选美国总统后，韩国激進女性主义的4B运动（不婚、不育、不约会、不性）在TikTok和X上引发全球关注，#4BMovement话题视频播放量过亿，美国女性大量加入。",
+    "content": "4B运动起源于2010年代中后期的韩国激进女性主义圈层。'4B'是韩语中四个'不'（bi）的缩写——不婚（bihon）、不育（bichulsan）、不恋爱（biyeonae）、不性（bisekseu）。该运动认为，在韩国极度性别不平等的社会结构下，退出与男性的亲密关系是女性最理性的政治选择。\n\n2024年11月，特朗普在美国总统大选中再次获胜，许多美国年轻女性感到自身权利面临严重威胁。大量TikTok和X用户开始引用和推广4B运动，作为对政治环境的回应。#4BMovement 标签视频播放量迅速突破亿级，一条'与共和党男友分手'的视频获得近千万播放。\n\n与此同时，一种暗黑幽默变体——MATGA（'Make Aqua Tofana Great Again'，指17世纪意大利女性用来毒杀施虐丈夫的毒药）也在社交媒体蔓延，反映了部分女性对政治环境的深度愤怒和无力感。",
+    "sources": [
+      { "title": "The Guardian. (2024). What is the 4B movement?", "type": "article" },
+      { "title": "NPR. (2024). American women look to South Korea's 4B movement.", "type": "article" }
+    ]
+  },
+  {
+    "id": "cn-2025-xingzhuan-literature",
+    "titleZh": "中国社交媒体'性转文学'浪潮爆发",
+    "titleEn": "Gender-Reversal Literature Wave Sweeps Chinese Social Media",
+    "date": { "year": 2025, "month": 1, "day": 1 },
+    "dateDisplay": "2025年",
+    "category": "domestic",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" }
+    ],
+    "summary": "以博主'阿喵团队'为代表的'性转文学'在小红书、抖音爆火——将性别角色刻意反转创作故事，如'重生之母系社会''喉结罩'等，以黑色幽默解构性别权力关系，女粉占比超90%。",
+    "content": "2025年初，一种被称为'性转文学'的创作形态在中国社交媒体上集中爆发。博主'阿喵团队'在小红书和抖音上以'重生之母系社会'系列走红，其核心玩法是将现实中的性别权力关系进行镜像反转。\n\n代表性作品包括：创造'喉结罩'概念（对应女性被要求穿胸罩）、用母系社会的脏话体系改写日常用语（'公公爸爸''爸了个根'）、将男频小说经典桥段进行性别反转以暴露其不平等内核。这些内容以黑色幽默的方式，让读者直观感受到现实中性别规范的荒诞性。\n\n与此同时，一篇以性别反转方式发布的'赘婿'提问帖引发全网大讨论——一位女性用户模仿男性口吻提出入赘条件，引发大量男性用户参与'喊价'，要求'千万彩礼''岳父高干'，被认为让许多女性第一次直观意识到嫁娶制度中的权力不对等。\n\n这一创作浪潮被视为'主体革命'——女性不再以受害者的叙事位置发声，而是以创作者的身份，通过想象力和幽默重塑性别话语。",
+    "sources": [
+      { "title": "钛媒体. (2025). 短视频世界的性别调换——女孩们发起了一场主体革命.", "type": "article", "url": "https://www.tmtpost.com/7556105.html" }
+    ]
+  },
+  {
+    "id": "cn-2025-middle-aged-women",
+    "titleZh": "'中女'叙事崛起：中年女性从污名到多样化表达",
+    "titleEn": "The Rise of 'Zhong Nü' Narrative: Middle-Aged Women Rebranded in Chinese Media",
+    "date": { "year": 2025, "month": 1, "day": 1 },
+    "dateDisplay": "2025年",
+    "category": "domestic",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" }
+    ],
+    "summary": "2025年，中年女性（'中女'）在影视、时尚、脱口秀等领域全面崛起——马伊琍的'张凤侠'角色、《VOGUE》中女群像封面、脱口秀小鹿专场《我的中女时代》，将中年女性从'大妈'污名中解放，重塑为多元、鲜活的文化力量。",
+    "content": "2025年，'中女'（中年女性）成为中国文娱领域最引人注目的关键词。影视方面马伊琍在《我的阿勒泰》中饰演的'张凤侠'成为年度角色——一个粗糙、真实、不被定义的中年游牧女性；《VOGUE》杂志推出多位中年女星的群像封面；脱口秀演员小鹿的专场《我的中女时代》在全国巡演中大卖。\n\n小红书和微博上围绕'中女'的讨论呈爆发式增长——从更年期去羞耻、中年女性的欲望与梦想、到50+女性的穿搭和生活方式，形成了一个与'白瘦幼'审美平行的文化空间。\n\n然而'中女'的处境仍充满张力。同一年，#讨厌宝妈# 成为热门词条，'妈味'被定义为'社会性的下线'。产后修复市场爆发（某高端品牌单价达4.6万元），'去妈味''保持少女感'形成新的审美霸权。'中女'既在被看见，也在被重新编码，消费主义与女性赋权之间的张力贯穿始终。",
+    "sources": [
+      { "title": "钛媒体. (2025). '妈味'——一种新型女性羞耻.", "type": "article", "url": "https://www.tmtpost.com/7694313.html" },
+      { "title": "小宇宙FM. (2025). 中女叙事正在被怎样书写.", "type": "podcast" }
+    ]
+  },
+  {
+    "id": "int-2025-microfeminism",
+    "titleZh": "微女性主义风潮席卷TikTok",
+    "titleEn": "Microfeminism Trend Goes Viral on TikTok",
+    "date": { "year": 2025, "month": 3, "day": 1 },
+    "dateDisplay": "2025年3月",
+    "category": "international",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" },
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "TikTok博主Tori Dunlap发起#Microfeminism话题，鼓励女性分享日常中的微小反抗，视频播放量近600万，收到1.3万条评论。包括'先打电话给爸爸'、对男同事说'抱歉让你情绪化了'等。",
+    "content": "2025年3月，TikTok金融教育博主Tori Dunlap（@herfirst100k）发布了一段视频，要求女性分享她们日常中'不太正常'的微女性主义（microfeminism）行为。视频迅速获得了近600万次播放和超过13000条评论。\n\n女性用户贡献了大量令人会心一笑的日常反抗：'每次学校打电话通知孩子生病，我先打给爸爸'；对生气的男同事说'我真的很抱歉让你这么情绪化'；开场白永远先说'女士们和先生的儿子们'；把新娘的名字写在婚礼请帖的新郎前面。\n\n这个趋势的迷人之处在于，它不需要宏大的政治宣言或组织化的运动——微女性主义通过无数日常的微小选择，悄悄松动性别权力结构。正如一位参与者所说：'这些事单独看都很小，加在一起就是我们抢回来的世界。'\n\n与此同时，《卫报》报道了Melani Sanders创立的'We Do Not Care Club'——面向更年期女性的幽默运动，在Instagram上积累了220万粉丝，登上了《德鲁·巴里摩尔秀》。中年女性用一种'我什么都不在乎了'的姿态，成为新型女性主义偶像。",
+    "sources": [
+      { "title": "The Guardian. (2025). The We Do Not Care Club.", "type": "article", "url": "https://www.theguardian.com" },
+      { "title": "Herald Sun. (2025). Woman asks for unhinged examples of microfeminism.", "type": "article" }
+    ]
+  },
+  {
+    "id": "cn-2026-womens-day-reclaim",
+    "titleZh": "#妇女节不是女神节#——中国女性发起'三八正名'运动",
+    "titleEn": "Chinese Women Reclaim 'Women's Day' from Commercial Appropriation",
+    "date": { "year": 2026, "month": 3, "day": 8 },
+    "dateDisplay": "2026年3月8日",
+    "category": "domestic",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" },
+      { "id": "organization", "labelZh": "组织运动", "labelEn": "Organization" }
+    ],
+    "summary": "2026年三八妇女节，#妇女节不是女神节#登上微博热搜第一。多地商场不再使用'女神节''女王节'促销标签，回归'国际劳动妇女节'的历史本义，年轻女性发起了一场对抗消费主义收编的语言正名运动。",
+    "content": "多年来，中国的'三八国际劳动妇女节'在商业力量的推动下，逐渐被'女神节''女王节'等消费主义标签覆盖。商场、电商平台和品牌习惯于将这一天转化为促销节日，'妇女'一词则被污名化——与'已婚''中年''不够精致'等标签捆绑。\n\n2026年3月8日，一场以#妇女节不是女神节#为核心的语言正名运动在微博与小红书上爆发，迅速登上微博热搜第一。年轻女性用户大量发帖，解释'妇女节'的全称是'国际劳动妇女节'，纪念的是1908年纽约服装女工罢工和此后全球女性争取选举权、劳动权的斗争——它从来不是关于消费，而是关于权利。\n\n多个城市的商场自发取消了'女神节''女王节'的促销标语，换回'妇女节快乐'的表述。全国妇联和地方妇联也在社交媒体上发声支持。这场运动被视为中国年轻女性对抗消费主义对女性话语收编的标志性文化行动，意味着'妇女'一词正在被新一代女性骄傲地重新认领。",
+    "sources": [
+      { "title": "网易新闻. (2026). 今年三八节画风彻底变了——多地撕掉'女神'标签.", "type": "article" }
+    ]
+  },
+  {
+    "id": "cn-2026-body-gaze-backlash",
+    "titleZh": "宋妍霏白眼回应'臀围热搜'——身体凝视的集体反击",
+    "titleEn": "Actress Song Yanfei's Eye-Roll Sparks Collective Pushback Against Body Gaze",
+    "date": { "year": 2026, "month": 3, "day": 27 },
+    "dateDisplay": "2026年3月27日",
+    "category": "domestic",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" }
+    ],
+    "summary": "#宋妍霏的臀#话题阅读量突破2.3亿登上热搜前三后，宋妍霏发布白眼自拍照配文'少关注人的臀'强势回应。事件引发近三年数据曝光——女性艺人身体部位热搜占比高达67%，男性仅12%。",
+    "content": "2026年3月，网友翻出女演员宋妍霏早年出席活动的视频片段，对其臀部形态进行细致讨论和评判，话题#宋妍霏的臀# 阅读量突破2.3亿，登上微博热搜前三。\n\n与以往女艺人对此类话题通常沉默或道歉不同，宋妍霏在个人微博发布了一张白眼自拍照，配文'少关注人的臀，勿凝视'，以极具个人风格的方式正面回怼。她的回应获得大量支持，被视为女性主动拒绝'被凝视'身体的标志性表态。\n\n随后，数据被翻出并广泛传播：近三年娱乐热搜中，女性艺人身体部位相关话题占比高达67%，而男艺人仅占12%。这一悬殊比例揭示了娱乐圈和社交媒体对女性身体的系统性审视。\n\n与此同时，女演员毛晓彤因牛仔裤裆部立体剪裁在街拍中形成'尴尬视觉效果'也登上热搜；湖北大学一名女生因穿胸口挖空的连体衣被两名男子当街羞辱引发冲突——2026年初密集的女性穿衣自由争议，使'身体自主权'成为年度最核心的性别议题之一。",
+    "sources": [
+      { "title": "中华网. (2026). 宋妍霏发白眼自拍照——拒绝身体凝视.", "type": "article", "url": "https://3g.china.com" },
+      { "title": "360娱乐. (2026). 女生穿什么都被骂——湖大透视装争议.", "type": "article" }
+    ]
+  },
+  {
+    "id": "cn-2026-dear-you",
+    "titleZh": "电影《给阿嫲的情书》上映——票房黑马讲述跨越半世纪的女性守望",
+    "titleEn": "Film 'Dear You' Released — A Box-Office Dark Horse Tells a Half-Century Story of Women's Silent Support",
+    "date": { "year": 2026, "month": 4, "day": 30 },
+    "dateDisplay": "2026年4月30日",
+    "category": "domestic",
+    "tags": [
+      { "id": "culture", "labelZh": "文化思想", "labelEn": "Culture" },
+      { "id": "leadership", "labelZh": "先驱人物", "labelEn": "Leadership" }
+    ],
+    "summary": "深圳出品的潮汕话电影《给阿嫲的情书》上映，首日排片仅1.6%，凭借口碑逆袭票房突破2亿、豆瓣9.1分。影片以'侨批'为线索，讲述两个素未谋面的女人用18年书信默默守护彼此的隐秘故事，被誉为2026年最动人的女性互助叙事。",
+    "content": "2026年4月30日，导演蓝鸿春执导的潮汕话电影《给阿嫲的情书》（英文名 Dear You）上映。影片制作成本仅1400万元，首日排片只有1.6%，但凭借观众口碑一路逆袭，最终票房突破2亿元，豆瓣评分高达9.1分，稳居2026年华语院线口碑榜首。2026年5月15日，影片登陆第79届戛纳国际电影节进行市场放映。\n\n影片以潮汕'侨批'（旧时海外华侨寄回家乡的书信与汇款凭证）为线索：潮汕阿嬷叶淑柔一生守着老屋，等待失联40多年的丈夫郑木生从泰国归来。孙子晓伟带着一封尘封的侨批远赴曼谷寻亲，却带回了一个震惊家族的消息——阿公早在18年前就已去世。那些跨山越海、支撑了阿嬷半生守候的书信和汇款，全部出自另一个女人谢南枝之手。这位素未谋面的陌生女子，用18年时光模仿阿公的笔迹，写下一封封情书、寄出一笔笔汇款，为一个素不相识的家庭编织了一个善意的谎言。\n\n影片90%以上的情节源自导演在拍摄纪录片《四海潮味》时采访的真实华侨故事。全片以素人出演，饰演阿嬷的吴少卿奶奶已84岁高龄，有亲人下南洋的真实经历。影片以极度克制的影像风格呈现'中式深情'——不刻意煽情，却让观众泪流满面。\n\n《工人日报》评论称其'以静水深流的方式道尽中国女性跨越时空的坚韧与温情'。这部影片的核心，是两个从未见面的女人之间跨越半个世纪的深沉守望——谢南枝用最隐秘的方式，守护了另一个女人后半生的等待。这种'woman supports woman'的叙事，在当下的华语电影中极为罕见。",
+    "sources": [
+      { "title": "工人日报. (2026). 艺评｜人间至味，慢火熬煮.", "type": "article", "url": "https://www.workercn.cn/c/2026-05-16/8802658.shtml" },
+      { "title": "澎湃新闻. (2026). 真诚再世必杀技！成本1400万，《给阿嫲的情书》票房逆袭登顶！", "type": "article", "url": "https://www.thepaper.cn/newsDetail_forward_33181021" }
+    ]
+  }
+]

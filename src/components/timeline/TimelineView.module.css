@@ -1,0 +1,30 @@
+.container {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-md);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+
+.container::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--color-border);
+  transform: translateX(-50%);
+}
+
+@media (max-width: 640px) {
+  .container {
+    grid-template-columns: 1fr;
+    padding-left: 2.5rem;
+  }
+  .container::before {
+    left: 1.25rem;
+  }
+}
