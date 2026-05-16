@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3A628B"/>
+      <stop offset="100%" stop-color="#1a2a3d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg)"/>
+  <text x="400" y="180" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-size="80" font-family="serif">&#9792;</text>
+  <text x="400" y="260" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="28" font-family="sans-serif" font-weight="bold">玛丽·居里</text>
+  <text x="400" y="300" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="16" font-family="sans-serif">1903年诺贝尔物理学奖</text>
+  <text x="400" y="340" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="13" font-family="sans-serif">Marie Curie — First Woman Nobel Laureate</text>
+</svg>
